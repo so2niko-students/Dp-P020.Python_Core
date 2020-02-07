@@ -1,0 +1,71 @@
+
+#
+# {
+#     "ok":true,
+#     "result":[
+#         {
+#             "update_id":15933992,
+#             "message":{
+#                 "message_id":2,
+#                 "from":{
+#                     "id":194287825,
+#                     "is_bot":false,
+#                     "first_name":"Nick",
+#                     "last_name":"So2",
+#                     "username":"so2niko",
+#                     "language_code":"en"
+#                 },
+#                 "chat":{
+#                     "id":194287825,
+#                     "first_name":"Nick",
+#                     "last_name":"So2",
+#                     "username":"so2niko",
+#                     "type":"private"
+#                 },
+#                 "date":1581071737,
+#                 "text":"Hi"
+#             }
+#         },
+#         {
+#             "update_id":15933993,
+#             "message":{
+#                 "message_id":4,
+#                 "from":{
+#                     "id":194287825,
+#                     "is_bot":false,
+#                     "first_name":"Nick",
+#                     "last_name":"So2",
+#                     "username":"so2niko",
+#                     "language_code":"en"
+#                 },
+#                 "chat":{
+#                     "id":-353351825,
+#                     "title":"Dp-P020.Python Core",
+#                     "type":"group",
+#                     "all_members_are_administrators":true
+#                 },
+#                 "date":1581071943,
+#                 "new_chat_participant":{
+#                     "id":927609870,
+#                     "is_bot":true,
+#                     "first_name":"Python annihilator",
+#                     "username":"Annihi_bot"
+#                 },
+#                 "new_chat_member":{
+#                     "id":927609870,
+#                     "is_bot":true,
+#                     "first_name":"Python annihilator",
+#                     "username":"Annihi_bot"
+#                 },
+#                 "new_chat_members":[
+#                     {
+#                         "id":927609870,
+#                         "is_bot":true,
+#                         "first_name":"Python annihilator",
+#                         "username":"Annihi_bot"
+#                     }
+#                 ]
+#             }
+#         }
+#     ]
+# }
